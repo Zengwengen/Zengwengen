@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI and adapt control
 - 🌱 I’m currently learning machine learing
 - 💞️ I’m looking to collaborate on AI Control
-- 📫 How to reach me on wechat 19313022779
 - I'm new guy here
 
 <!---
